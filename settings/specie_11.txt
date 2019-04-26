@@ -1,0 +1,17 @@
+damage=40
+speed=1
+life_expectancy=600
+maximum_health=100
+hunger_threshold=50
+satiated_threshold=90
+agressive=0
+plant_range_detection=20
+prey_range_detection=20
+partner_range_detection=20
+agressivity_range=3
+search_distance=20
+reproduction_time=15
+decomposition_time=15
+plants=
+preys=8,6,9,18,22,28,
+colors=

@@ -1,0 +1,6 @@
+resource_1=50000
+resource_2=12500
+resource_3=20000
+resource_4=12500
+resource_5=0
+resource_6=12500

@@ -1,0 +1,6 @@
+resource_1=Arbre
+resource_2=Carotte
+resource_3=Herbe
+resource_4=Baie
+resource_5=Champignon
+resource_6=Banane

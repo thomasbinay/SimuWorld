@@ -1,0 +1,1 @@
+disappearance_time=10000
