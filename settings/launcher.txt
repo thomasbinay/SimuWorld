@@ -1,9 +1,0 @@
-directory=C:/Users/Thomas/OneDrive - ISEP/Programmation/Programmes/SimuWorld/results
-duration=10.000000
-hide=1
-minFailureSave=30
-numberSimultaneous=4
-numberTotal=10
-saveOnFailure=0
-speed=100
-stopOnFailure=1
